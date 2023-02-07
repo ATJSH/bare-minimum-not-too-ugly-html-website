@@ -9,3 +9,7 @@ The title says it all
    - Replace `<head> > <link rel=icon>` tag's '🧩' emoji with your emoji of choice. or you can just use your own favicon.ico or delete the tag entirely.
    - Replace `<body> > <h1>` tag's content
    - Replace `<body> > <footer>` tag's content including the `<a>` tag's `href` attribute
+
+## License
+
+It's Public Domain.
